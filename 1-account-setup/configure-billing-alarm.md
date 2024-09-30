@@ -33,12 +33,12 @@ This guide will walk you through the steps to set up and configure billing alarm
    - **Receive CloudWatch billing alert**
 3. On the right-hand side, enable **PDF invoices delivery by mail**.
 
-![billing reference](images/01-billing-preference.png)
+![billing reference](../images/01-billing-preference.png)
 
 ## Step 7: Set a Monthly Cost Budget
 1. Click on **Budgets** and set a monthly cost budget.
   
-![budget](images/02-budget.png)
+![budget](../images/02-budget.png)
 
 ## Step 8: Use Cost Explorer
 1. Click on **Cost Explorer** to see a breakdown of your spending.
