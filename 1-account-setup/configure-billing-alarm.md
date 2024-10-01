@@ -1,5 +1,3 @@
-# How to configure billing alarm in AWS
-
 # How to Set Up and Configure Billing Alarms in AWS
 
 ## Introduction
