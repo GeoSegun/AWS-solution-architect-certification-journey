@@ -8,8 +8,6 @@ In this guide, we will explore **Permission Boundaries** in AWS IAM, their impor
 
 A **Permission Boundary** is an advanced feature in AWS IAM that restricts the maximum permissions an IAM user or role can have. Even if the user or role is attached to a policy granting broader permissions, the boundary ensures they cannot exceed the permissions defined by the boundary.
 
-
-
 ## Why Are Permission Boundaries Important?
 
 ### Preventing Privilege Escalation Attacks
