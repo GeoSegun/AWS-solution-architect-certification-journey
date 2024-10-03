@@ -49,3 +49,9 @@ An **IAM role** is similar to a user but without credentials. Roles define permi
 
 Stay tuned for more IAM concepts as we delve into setting up policies and roles! 🚀
 
+## More resorces for IAM
+
+1. https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#bp-users-federation-idp
+
+2. https://policysim.aws.amazon.com/home/index.jsp?#
+
