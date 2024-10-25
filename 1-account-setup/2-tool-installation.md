@@ -22,3 +22,11 @@ aws --version
 
 3. **Access AWS cloudshell:** AWS cloud shell is a commandline interface in your AWS account that allows you run command line task in the cloud without installing or configuring any software locally
 
+N/B: To check if you've successfully connected to your AWS console programmatically, you use the below command:
+
+```bash
+aws sts get-caller-identity
+```
+
+
+
