@@ -27,6 +27,3 @@ N/B: To check if you've successfully connected to your AWS console programmatica
 ```bash
 aws sts get-caller-identity
 ```
-
-
-
